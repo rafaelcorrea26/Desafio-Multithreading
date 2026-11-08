@@ -37,8 +37,8 @@ Cidade......: São Paulo
 UF..........: SP
 ```
 
-Se rodar algumas vezes seguidas dá pra ver o vencedor mudando entre BrasilAPI e
-ViaCEP, porque depende de qual responde mais rápido naquele momento.
+O vencedor pode mudar entre as execuções, porque depende de qual API responde
+mais rápido naquele momento.
 
 Para gerar o binário:
 
