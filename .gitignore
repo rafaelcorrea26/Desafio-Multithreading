@@ -1,0 +1,8 @@
+# binários compilados
+/buscacep
+/buscacep.exe
+/bin/
+
+# artefatos de teste
+*.out
+*.test
